@@ -1,0 +1,3 @@
+- way to join our signal chat
+- link to our resource proton folder
+-
