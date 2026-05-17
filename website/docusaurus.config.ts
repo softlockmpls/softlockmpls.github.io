@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'SoftLock MPLS',
-  tagline: 'Tagline...?',
+  tagline: 'Minneapolis-Based Group of Online Security Enthusiasts',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
