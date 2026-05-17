@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://e11evin-11.github.io',
+  url: 'https://softlockmpls.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/softlock/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'e11evin-11', // Usually your GitHub org/user name.
-  projectName: 'softlock', // Usually your repo name.
+  organizationName: 'softlockmpls', // Usually your GitHub org/user name.
+  projectName: 'softlockmpls.github.io', // Usually your repo name.
   
   deploymentBranch: 'gh-pages',
 
@@ -46,7 +46,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/e11evin-11/softlock/tree/main/website',
+            'https://github.com/softlockmpls/softlockmpls.github.io/tree/main/website',
         },
         blog: {
           showReadingTime: true,
@@ -57,7 +57,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/e11evin-11/softlock/tree/main/website',
+            'https://github.com/softlockmpls/softlockmpls.github.io/tree/main/website',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -95,7 +95,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/e11evin-11/softlock',
+          href: 'https://github.com/softlockmpls/softlockmpls.github.io',
           label: 'GitHub',
           position: 'right',
         },
@@ -128,7 +128,7 @@ const config: Config = {
             },
             {
               label: "GitHub",
-              to: 'https://github.com/e11evin-11/softlock'
+              to: 'https://github.com/softlockmpls/softlockmpls.github.io'
             }
           ],
         },
