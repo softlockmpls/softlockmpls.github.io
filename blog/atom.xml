@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://softlockmpls.github.io/blog/</id>
+    <title>SoftLock MPLS Blog</title>
+    <updated>2026-04-17T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://softlockmpls.github.io/blog/"/>
+    <subtitle>SoftLock MPLS Blog</subtitle>
+    <icon>https://softlockmpls.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://softlockmpls.github.io/blog/2026/04/17/</id>
+        <link href="https://softlockmpls.github.io/blog/2026/04/17/"/>
+        <updated>2026-04-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello world!]]></summary>
+        <content type="html"><![CDATA[<p>Hello world!</p>]]></content>
+    </entry>
+</feed>
